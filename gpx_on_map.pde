@@ -1,3 +1,5 @@
+import TUIO.*;
+
 /**
  * Based on the unfoldingmaps example 
  * SimpleMarkrApp
