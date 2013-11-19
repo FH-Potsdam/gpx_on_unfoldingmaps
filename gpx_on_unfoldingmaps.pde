@@ -17,7 +17,7 @@ import de.fhpotsdam.unfolding.events.*;
 import de.fhpotsdam.unfolding.interactions.*;
 import TUIO.*; // <-- Dont forget the TUIO
 
-UnfoldingMap map; // This is our mp
+UnfoldingMap map; // This is our map
 TuioCursorHandler tuioCursorHandler; // Handle TUIO
 
 Location locationBerlin = new Location(52.5f, 13.4f); //This is just a location
