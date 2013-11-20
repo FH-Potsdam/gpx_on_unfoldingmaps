@@ -45,6 +45,7 @@ public void setup() {
   gpxfiles.add("RK_gpx _2013-11-19_1339.gpx");
   gpxfiles.add("sworn.gpx");
   gpxfiles.add("tomies_anweisung_gpx.gpx");
+  gpxfiles.add("Ghost ORIGINAL.gpx");
   // --
   reader = new GPXReader(this, gpxfiles ); // set up the reader
   
