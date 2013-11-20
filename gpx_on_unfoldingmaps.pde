@@ -39,7 +39,13 @@ public void setup() {
   gpxfiles.add("RK_03.gpx");
   gpxfiles.add("RK_04.gpx");
   gpxfiles.add("Running.gpx");
-  
+  // --
+  gpxfiles.add("2013-11-19_GPS_Anweisung_Nushin.gpx");
+  gpxfiles.add("jonij.gpx");
+  gpxfiles.add("RK_gpx _2013-11-19_1339.gpx");
+  gpxfiles.add("sworn.gpx");
+  gpxfiles.add("tomies_anweisung_gpx.gpx");
+  // --
   reader = new GPXReader(this, gpxfiles ); // set up the reader
   
   map = new de.fhpotsdam.unfolding.Map(this); // setup the map
